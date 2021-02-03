@@ -3,7 +3,7 @@
 
 AUTHOR = 'luna chevalier'
 SITENAME = 'luna-chevalier-blog'
-SITEURL = ''
+SITEURL = 'https://lunachevalier.github.io/markdown-blog/'
 
 PATH = 'content'
 
