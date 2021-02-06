@@ -3,7 +3,7 @@
 
 AUTHOR = 'luna chevalier'
 SITENAME = 'luna-chevalier-blog'
-SITEURL = 'https://lunachevalier.github.io/markdown-blog/'
+SITEURL = ''
 
 PATH = 'content'
 
@@ -19,10 +19,11 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('Pelican', 'https://getpelican.com/'),
-         ('Python.org', 'https://www.python.org/'),
-         ('Jinja2', 'https://palletsprojects.com/p/jinja/'),
-         ('You can modify those links in your config file', '#'),)
+LINKS = (
+    ('Twitter', 'https://twitter.com/luna_chevalier/'),
+    ('Youtube', 'https://www.youtube.com/channel/UC5Ptllp2bi1U7KMRLeVwjmw'),
+    ('zenn', 'https://zenn.dev/luna_chevalier'),
+)
 
 # Social widget
 SOCIAL = (('You can add links in your config file', '#'),
