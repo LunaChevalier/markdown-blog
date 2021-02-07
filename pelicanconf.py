@@ -40,16 +40,12 @@ MARKDOWN = {
         'markdown.extensions.meta': {},
         'markdown.extensions.nl2br': {},
         'markdown_del_ins':{},
+        'markdown.extensions.toc':{},
     },
     'output_format': 'html5',
 }
 
-STATIC_PATHS = ['images']
-EXTRA_PATH_METADATA = {
-    'images/favicon.ico': {'path': 'favicon.ico'},
-    'images/favicon.png': {'path': 'favicon.png'}
-}
-
+FAVICON = SITEURL + 'images/favicon.ico'
 TWITTER_USERNAME = 'Luna_Chevalier'
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
