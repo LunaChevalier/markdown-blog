@@ -49,3 +49,4 @@ FAVICON = SITEURL + 'images/favicon.ico'
 TWITTER_USERNAME = 'Luna_Chevalier'
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
+PORT = 1234
